@@ -11,4 +11,4 @@ def primes(n):
     else:
     	raise TypeError("enter intergers please")
     
-print(primes(199))
+print(primes())
